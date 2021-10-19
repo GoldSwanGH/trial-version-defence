@@ -1,0 +1,17 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MatrixType", "MatrixType.csproj", "{EECC3741-5547-4C96-A042-63D232E5AE27}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EECC3741-5547-4C96-A042-63D232E5AE27}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EECC3741-5547-4C96-A042-63D232E5AE27}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EECC3741-5547-4C96-A042-63D232E5AE27}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EECC3741-5547-4C96-A042-63D232E5AE27}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EECC3741-5547-4C96-A042-63D232E5AE27}.Release|Any CPU.Deploy.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal

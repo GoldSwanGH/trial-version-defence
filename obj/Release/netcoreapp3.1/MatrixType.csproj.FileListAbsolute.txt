@@ -1,0 +1,13 @@
+C:\Users\GoldSwan\RiderProjects\MatrixType\bin\Release\netcoreapp3.1\MatrixType.exe
+C:\Users\GoldSwan\RiderProjects\MatrixType\bin\Release\netcoreapp3.1\MatrixType.deps.json
+C:\Users\GoldSwan\RiderProjects\MatrixType\bin\Release\netcoreapp3.1\MatrixType.runtimeconfig.json
+C:\Users\GoldSwan\RiderProjects\MatrixType\bin\Release\netcoreapp3.1\MatrixType.runtimeconfig.dev.json
+C:\Users\GoldSwan\RiderProjects\MatrixType\bin\Release\netcoreapp3.1\MatrixType.dll
+C:\Users\GoldSwan\RiderProjects\MatrixType\bin\Release\netcoreapp3.1\MatrixType.pdb
+C:\Users\GoldSwan\RiderProjects\MatrixType\obj\Release\netcoreapp3.1\MatrixType.csproj.AssemblyReference.cache
+C:\Users\GoldSwan\RiderProjects\MatrixType\obj\Release\netcoreapp3.1\MatrixType.AssemblyInfoInputs.cache
+C:\Users\GoldSwan\RiderProjects\MatrixType\obj\Release\netcoreapp3.1\MatrixType.AssemblyInfo.cs
+C:\Users\GoldSwan\RiderProjects\MatrixType\obj\Release\netcoreapp3.1\MatrixType.csproj.CoreCompileInputs.cache
+C:\Users\GoldSwan\RiderProjects\MatrixType\obj\Release\netcoreapp3.1\MatrixType.dll
+C:\Users\GoldSwan\RiderProjects\MatrixType\obj\Release\netcoreapp3.1\MatrixType.pdb
+C:\Users\GoldSwan\RiderProjects\MatrixType\obj\Release\netcoreapp3.1\MatrixType.genruntimeconfig.cache

@@ -1,0 +1,16 @@
+C:\Users\GoldSwan\RiderProjects\MatrixType\bin\Debug\net5.0\MatrixType.exe
+C:\Users\GoldSwan\RiderProjects\MatrixType\bin\Debug\net5.0\MatrixType.deps.json
+C:\Users\GoldSwan\RiderProjects\MatrixType\bin\Debug\net5.0\MatrixType.runtimeconfig.json
+C:\Users\GoldSwan\RiderProjects\MatrixType\bin\Debug\net5.0\MatrixType.runtimeconfig.dev.json
+C:\Users\GoldSwan\RiderProjects\MatrixType\bin\Debug\net5.0\MatrixType.dll
+C:\Users\GoldSwan\RiderProjects\MatrixType\bin\Debug\net5.0\ref\MatrixType.dll
+C:\Users\GoldSwan\RiderProjects\MatrixType\bin\Debug\net5.0\MatrixType.pdb
+C:\Users\GoldSwan\RiderProjects\MatrixType\obj\Debug\net5.0\MatrixType.csprojAssemblyReference.cache
+C:\Users\GoldSwan\RiderProjects\MatrixType\obj\Debug\net5.0\MatrixType.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\GoldSwan\RiderProjects\MatrixType\obj\Debug\net5.0\MatrixType.AssemblyInfoInputs.cache
+C:\Users\GoldSwan\RiderProjects\MatrixType\obj\Debug\net5.0\MatrixType.AssemblyInfo.cs
+C:\Users\GoldSwan\RiderProjects\MatrixType\obj\Debug\net5.0\MatrixType.csproj.CoreCompileInputs.cache
+C:\Users\GoldSwan\RiderProjects\MatrixType\obj\Debug\net5.0\MatrixType.dll
+C:\Users\GoldSwan\RiderProjects\MatrixType\obj\Debug\net5.0\ref\MatrixType.dll
+C:\Users\GoldSwan\RiderProjects\MatrixType\obj\Debug\net5.0\MatrixType.pdb
+C:\Users\GoldSwan\RiderProjects\MatrixType\obj\Debug\net5.0\MatrixType.genruntimeconfig.cache

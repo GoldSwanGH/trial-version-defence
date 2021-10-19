@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\GoldSwan\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\GoldSwan\\.nuget\\packages"
+    ]
+  }
+}
