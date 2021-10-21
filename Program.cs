@@ -509,10 +509,7 @@ namespace MatrixType
                         assert[j] = (byte)(j * 2 - j);
                     }
 
-                    if (assert[47] == 47)
-                    {
-                        return;
-                    }
+                    return;
                 }
                 
                 // если проверяем последний байт иконки, если он FF, то программа ранее не запускалась
@@ -615,10 +612,7 @@ namespace MatrixType
                         assert[j] = (byte)(j * 2 - j);
                     }
 
-                    if (assert[47] == 47)
-                    {
-                        return;
-                    }
+                    return;
                 }
             }
 
@@ -639,10 +633,7 @@ namespace MatrixType
                         assert[j] = (byte)(j * 2 - j);
                     }
 
-                    if (assert[47] == 47)
-                    {
-                        return;
-                    }
+                    return;
                 }
                 else
                 {
@@ -658,10 +649,7 @@ namespace MatrixType
                             assert[j] = (byte)(j * 2 - j);
                         }
 
-                        if (assert[47] == 47)
-                        {
-                            return;
-                        }
+                        return;
                     }
 
                     // проверка содержимого
@@ -678,10 +666,7 @@ namespace MatrixType
                                 assert[j] = (byte)(j * 2 - j);
                             }
 
-                            if (assert[47] == 47)
-                            {
-                                return;
-                            }
+                            return;
                         }
 
                         // считываем контрольные данные и количество запусков
@@ -737,10 +722,7 @@ namespace MatrixType
                         assert[j] = (byte)(j * 2 - j);
                     }
 
-                    if (assert[47] == 47)
-                    {
-                        return;
-                    }
+                    return;
                 }
             }
 
@@ -802,10 +784,7 @@ namespace MatrixType
                     assert[i] = (byte)(i * 2 - i);
                 }
 
-                if (assert[47] == 47)
-                {
-                    return;
-                }
+                return;
             }
             
             _matrices["m1"] = Matrix.Parse("1 2 3, 2 3.2 4, 5.1 6 7");
